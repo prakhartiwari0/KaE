@@ -5,10 +5,7 @@
 KaE is an online e-commerce website for people who desire to design their own clothes and create a fashion of themselves.
 It is built with modern typography and color theme following principle of minimalism.
 
-
-Learn how to pronounce KaE 👇
-
-https://user-images.githubusercontent.com/65062036/206168796-1501ca33-3094-4c27-a468-0c2999ac383d.mp4
+**Pronunciation: `K - ee`**
 
 
 ## Color theme
