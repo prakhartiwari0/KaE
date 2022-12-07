@@ -1,4 +1,5 @@
 <h1 align="center"> KaE: Design your Happiness </h1>
+
 ![Kae Banner](https://user-images.githubusercontent.com/65062036/206170478-e534116e-2974-4e3a-8d09-237662ae0065.png)
 
 KaE is an online e-commerce website for people who desire to design their own clothes and create a fashion of themselves.
