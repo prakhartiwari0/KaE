@@ -121,6 +121,7 @@ input#searchbar{
 
 .first_section .illustration{
     position: relative;
+    z-index: -1;
     width: 100%;
 }
 
